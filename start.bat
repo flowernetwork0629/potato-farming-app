@@ -1,0 +1,3 @@
+@echo off
+echo ???...
+python -m streamlit run potato_farming_ui.py
